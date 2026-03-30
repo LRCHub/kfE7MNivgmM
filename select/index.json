@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "POLARIS",
+  "base_artist": "omeme tenten",
+  "createdAt": "2026-03-30T14:47:15.564871Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Polaris",
+      "artist": "Zero 7 feat. Sia",
+      "has_synced": false,
+      "path": "select/01_Polaris_Zero_7_feat._Sia.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Polaris",
+      "artist": "Man or Astro-Man?",
+      "has_synced": false,
+      "path": "select/02_Polaris_Man_or_Astro-Man.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Polaris",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/03_Polaris_ASH.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ensemble for Polaris",
+      "artist": "エステラ(Vo.六花) feat. エリザベス(Vo.乃藍)",
+      "has_synced": false,
+      "path": "select/04_Ensemble_for_Polaris_エステラ(Vo.六花)_feat._エリザベス(Vo.乃藍).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ensemble for Polaris",
+      "artist": "エステラ(Vo.六花) & エリザベス(Vo.乃藍)",
+      "has_synced": false,
+      "path": "select/05_Ensemble_for_Polaris_エステラ(Vo.六花)_&_エリザベス(Vo.乃藍).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Polaris",
+      "artist": "Damon Albarn",
+      "has_synced": true,
+      "path": "select/06_Polaris_Damon_Albarn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Why? - Live at Stella Polaris",
+      "artist": "Bronski Beat",
+      "has_synced": false,
+      "path": "select/07_Why__-_Live_at_Stella_Polaris_Bronski_Beat.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Why? (live at Stella Polaris)",
+      "artist": "Bronski Beat",
+      "has_synced": false,
+      "path": "select/08_Why__(live_at_Stella_Polaris)_Bronski_Beat.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Polaris",
+      "artist": "Zero 7",
+      "has_synced": false,
+      "path": "select/09_Polaris_Zero_7.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Polaris",
+      "artist": "Horrendous",
+      "has_synced": false,
+      "path": "select/10_Polaris_Horrendous.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rust in Peace… Polaris",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/11_Rust_in_Peace..._Polaris_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Polaris (Demo)",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/12_Polaris_(Demo)_ASH.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Polaris (Root-id Re-Rub)",
+      "artist": "ASH",
+      "has_synced": false,
+      "path": "select/13_Polaris_(Root-id_Re-Rub)_ASH.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Polaris (Streetlife DJ's Remix)",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/14_Polaris_(Streetlife_DJ's_Remix)_ASH.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Polaris (Superbass Remix)",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/15_Polaris_(Superbass_Remix)_ASH.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "POLARIS",
+      "artist": "omeme tenten",
+      "has_synced": false,
+      "path": "select/pl_01_POLARIS_omeme_tenten.txt"
+    }
+  ]
+}
